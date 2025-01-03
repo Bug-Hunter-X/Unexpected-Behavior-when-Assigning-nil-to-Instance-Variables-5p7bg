@@ -1,0 +1,1 @@
+This example demonstrates a subtle bug in Ruby related to assigning nil to instance variables.  While seemingly innocuous, this can cause unexpected program behavior if not handled carefully. The solution provides a method to check for nil values and handle them appropriately, improving robustness and reducing potential errors.
